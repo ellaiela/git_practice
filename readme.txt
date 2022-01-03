@@ -1,0 +1,1 @@
+Hello! This is Juniela Bautista and this is my first practice in git and github.
